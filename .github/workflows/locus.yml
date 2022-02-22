@@ -9,4 +9,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: ruffinjr/testRepository@v2.0.1
+      - uses: ruffinjr/testRepository@v2.0.2
